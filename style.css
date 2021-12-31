@@ -1,0 +1,23 @@
+body
+{
+    background-color: lime;
+}
+
+#timer
+{
+    font-size: 25px;
+    float: right;
+    margin-right: 30px;
+}
+
+#score
+{
+    font-size: 25px;
+    float: left;
+    margin-left: 10px;
+}
+
+#sketch_to_be_drawn_label
+{
+    color: red;
+}
